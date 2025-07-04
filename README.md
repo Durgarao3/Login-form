@@ -1,4 +1,4 @@
-# Animated Login Form (HTML & CSS)
+# Login Form (HTML & CSS)
 
 This project is a modern, visually appealing animated login form built using only HTML and CSS. It features smooth animations for input focus, button hover, and form transitions. No JavaScript is required.
 
